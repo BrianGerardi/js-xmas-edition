@@ -5,3 +5,4 @@ necesarias.
 
 TIP: Las edades no pueden tener decimales.
 */
+ //uwu
